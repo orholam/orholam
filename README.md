@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @orholam
-- 👀 I’m interested in PWAs
-- 🌱 I’m currently learning Supabase
-- 💞️ I’m looking to collaborate on side projects!
-- 📫 How to reach me tbd
+Senior Software Engineer with a background in Generative AI and RAG systems. 
 
+Passionate about building reliable, high-impact AI products with strong evaluation frameworks and guardrails. Currently focused on production-scale AI applications while increasing automation for existing workflows.
